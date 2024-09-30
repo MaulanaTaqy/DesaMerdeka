@@ -14,7 +14,7 @@
             <h2>Tentang Kami</h2>
             <ul>
                 <li> <a href="index.html">Home</a> </li>
-                <li> <a href="#"> Tentang Kami</a> </li>
+                <li> <a href="#"> Tentang Kamiiiiiiiiiiiiii</a> </li>
             </ul>
         </div>
     </section>
